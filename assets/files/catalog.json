@@ -1,0 +1,84 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Samsung Galaxy S21",
+            "description": "The Samsung Galaxy S21 is a flagship Android smartphone known for its powerful camera and high-resolution display.",
+            "price": 799.99,
+            "image_url": "assets/images/login.png",
+            "color_code": "#0070D1"
+        },
+        {
+            "id": 2,
+            "name": "Apple iPhone 13 Pro",
+            "description": "The iPhone 13 Pro is Apple's latest flagship with advanced features, iOS 15, and a stunning Super Retina XDR display.",
+            "price": 999.99,
+            "image_url": "assets/images/login.png",
+            "color_code": "#000000"
+        },
+        {
+            "id": 3,
+            "name": "Google Pixel 6",
+            "description": "The Google Pixel 6 is a flagship Android phone known for its exceptional camera capabilities and stock Android experience.",
+            "price": 699.99,
+            "image_url": "assets/images/login.png",
+            "color_code": "#4285F4"
+        },
+        {
+            "id": 4,
+            "name": "OnePlus 9",
+            "description": "The OnePlus 9 offers a premium Android experience with a high-refresh-rate display and powerful performance.",
+            "price": 749.99,
+            "image_url": "assets/images/login.png",
+            "color_code": "#EE3B30"
+        },
+        {
+            "id": 5,
+            "name": "Xiaomi Mi 11",
+            "description": "The Xiaomi Mi 11 is a powerful Android smartphone with a focus on performance and sleek design.",
+            "price": 649.99,
+            "image_url": "assets/images/login.png",
+            "color_code": "#FF6700"
+        },
+        {
+            "id": 6,
+            "name": "Sony Xperia 1 III",
+            "description": "The Sony Xperia 1 III boasts a 4K display and advanced camera features, making it a top choice for multimedia enthusiasts.",
+            "price": 999.99,
+            "image_url": "assets/images/login.png",
+            "color_code": "#1A1A1A"
+        },
+        {
+            "id": 7,
+            "name": "LG Velvet",
+            "description": "The LG Velvet is a stylish and well-rounded smartphone with a focus on design and versatility.",
+            "price": 599.99,
+            "image_url": "assets/images/login.png",
+            "color_code": "#FAA41A"
+        },
+        {
+            "id": 8,
+            "name": "Motorola Moto G Power",
+            "description": "The Moto G Power offers excellent battery life and solid performance for a budget-friendly price.",
+            "price": 249.99,
+            "image_url": "assets/images/login.png",
+            "color_code": "#FF0000"
+        },
+        {
+            "id": 9,
+            "name": "Nokia 9 PureView",
+            "description": "The Nokia 9 PureView features a unique five-camera setup for photography enthusiasts.",
+            "price": 399.99,
+            "image_url": "assets/images/login.png",
+            "color_code": "#00AEEF"
+        },
+        {
+            "id": 10,
+            "name": "ASUS ROG Phone 5",
+            "description": "The ASUS ROG Phone 5 is a gaming-focused smartphone with top-tier hardware and accessories.",
+            "price": 799.99,
+            "image_url": "assets/images/login.png",
+            "color_code": "#000000"
+        }
+    ]
+}
